@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /mnt/c/Users/Conrad/dev/flatiron/labs/ruby-oo-relationships-practice-blood-oath-exercise/app/models/cult.rb:118 :
+
+    [1;34m113[0m: 
+    [1;34m114[0m: giovanni = [1;34;4mFollower[0m.new([31m[1;31m"[0m[31mGiovanni[1;31m"[0m[31m[0m, [1;34m49[0m, [31m[1;31m"[0m[31mRule over Team Rocket[1;31m"[0m[31m[0m)
+    [1;34m115[0m: team_rocket.recruit_follower(giovanni)
+    [1;34m116[0m: giovanni.join_cult(scientology)
+    [1;34m117[0m: 
+ => [1;34m118[0m: binding.pry
+    [1;34m119[0m: 
+    [1;34m120[0m: puts team_rocket.name
+    [1;34m121[0m: 
+    [1;34m122[0m: [1;34m#name, age, life_motto[0m
+    [1;34m123[0m: [1;34m#name, location, founding_year, slogan[0m
+
